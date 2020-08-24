@@ -1,0 +1,31 @@
+* {
+    color: blue;
+
+}
+
+#title {
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    text-align: center;
+    color: brown;
+}
+
+#intro {
+    color: crimson;
+}
+
+#INTRODUCTION {
+    color: black;
+}
+
+#causesofenvironmentaldegradation {
+    color: black;
+}
+
+#solutions {
+    color: black;
+}
+
+#link {
+    background-color: lightcoral;
+}
